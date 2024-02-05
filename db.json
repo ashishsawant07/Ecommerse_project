@@ -1,1 +1,22 @@
-{}
+{
+  "seller": [
+    {
+      "id": "1",
+      "name": "Ashish sawant",
+      "email": "abc@gmail.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "2",
+      "name": "Ash sawant",
+      "email": "ab@gmail.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "53ed",
+      "name": "ak",
+      "email": "ab@gmail.com",
+      "password": "abc@123"
+    }
+  ]
+}
