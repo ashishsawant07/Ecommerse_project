@@ -17,6 +17,18 @@
       "name": "ak",
       "email": "ab@gmail.com",
       "password": "abc@123"
+    },
+    {
+      "id": "1293",
+      "name": "Ashish Sawant",
+      "password": "123",
+      "email": "assawant@gmail.com"
+    },
+    {
+      "id": "3512",
+      "name": "Ashish Sawant",
+      "password": "123",
+      "email": "assawant@gmail.com"
     }
   ]
 }
